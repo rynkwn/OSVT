@@ -19,5 +19,7 @@ As a consequence, this project is going to be pretty lackadaisical.
 
 ## Links
 [Google Drive](https://drive.google.com/drive/folders/1kvr-06sVxBM7Kg4XMHi91OfGlas3vP4V)
+
 [Resources](https://docs.google.com/document/d/1n4fnIx1Ra03svyDPeREFMR5AY08B1eEDfW6FK7IEGI4/edit)
+
 [Trello](https://trello.com/b/C3proiBq/osvt)
